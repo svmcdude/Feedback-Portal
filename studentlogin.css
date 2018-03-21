@@ -1,0 +1,99 @@
+	body{
+		background-color: #4f9aa2;
+	}
+	.title
+	{
+		background-color:#108e93; 
+		position:fixed;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		height:64px;
+
+	}
+	#lgform{
+		background-color: white;
+	    padding: 5px;
+		width: 500px;
+		margin: 0 auto;
+		left: 0px;
+		top: 150px;
+		position: relative;
+		padding-bottom: 20px;
+		border: 2px solid #040731;
+		border-radius: 5px;
+	}
+	.title_name
+	{
+		position: absolute;
+		font-size: 30px;
+		margin-left: 72px;
+		padding-top: 10px;
+		background-color: white;
+        font-family: roboto;
+		margin-top:0px;
+		
+	}
+	.student{
+		width: 150px;
+		text-align: center;
+	}
+	.myform{
+		width: 450px;
+    margin: 0 auto;
+	}
+	.inputvalue{
+		width: 430px;
+		margin-bottom: 10px;
+		padding: 10px;
+		border: 2px solid #919794;
+	}
+	#login_btn{
+		background-color:#f41645;
+		color: white;
+		padding: 5px;
+		width:430px;
+		text-align: center;
+		font-size: 18px;
+		margin-top: 5px;
+		font-weight: bold;
+	}
+	#register_btn{
+		background-color: #059c48;
+		padding: 5px;
+		width: 430px;
+		text-align: center;
+		font-size: 18px;
+		font-weight: bold;
+		color: white;
+		margin-top: 5px;
+		margin-bottom: 20px;
+		
+	}
+	.phpr{
+	  text-align: center; 
+	  font-weight: bold;
+    }
+	a{
+		text-decoration-line: none;
+	}
+	.home{
+		position: absolute;
+		width: 50px;
+        margin-left:10px;
+        margin-top: 5px;
+	}
+	.logo{
+		width: 45px;
+		margin-left:72px;
+		height:45px;
+		margin-top: 8px;
+	}
+	.f{
+		position: absolute;
+		left: 125px;
+		top: 15px;
+		font-size:25px;
+		color: white;
+		font-weight: bold;
+	}
